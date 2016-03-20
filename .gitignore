@@ -1,0 +1,15 @@
+#IDEA Files
+.idea
+target
+*.iml
+*.ipr
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+*.pydevproject
+
+*.log
+
+/src/test/resources/settings.properties

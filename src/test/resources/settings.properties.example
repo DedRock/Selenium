@@ -1,0 +1,7 @@
+##### VK login settings #####
+vk.login=
+vk.password=
+
+##### VK checking last message from sender (by VK id)
+test.vk.sender.id=sidelnikovmike
+vk.test.message=Test
