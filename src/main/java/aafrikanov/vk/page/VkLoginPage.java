@@ -7,7 +7,7 @@ import ru.yandex.qatools.allure.annotations.Step;
 import ru.yandex.qatools.htmlelements.loader.decorator.HtmlElementDecorator;
 import ru.yandex.qatools.htmlelements.loader.decorator.HtmlElementLocatorFactory;
 
-public class VkLoginPage extends BaseHtmlElementsPage{
+public class VkLoginPage extends VkBasePage{
 
     LoginForm loginForm;
 

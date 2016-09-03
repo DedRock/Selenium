@@ -57,9 +57,4 @@ public class BaseHtmlElementsPage {
             return new byte[0];
         }
     }
-
-    @Step("{0}")
-    public void log(String message){
-        ;
-    }
 }

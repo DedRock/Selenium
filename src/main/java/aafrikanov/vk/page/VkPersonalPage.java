@@ -7,7 +7,7 @@ import ru.yandex.qatools.allure.annotations.Step;
 /**
  * Created by Администратор on 19.03.16.
  */
-public class VkPersonalPage extends BaseHtmlElementsPage{
+public class VkPersonalPage extends VkBasePage{
 
     ProfileMenu profileMenu;
 

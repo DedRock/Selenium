@@ -12,13 +12,13 @@ import ru.yandex.qatools.htmlelements.element.TextInput;
 public class LoginForm extends HtmlElement {
 
     @FindBy(id="quick_email")
-    TextInput loginTextBox;
+    private TextInput loginTextBox;
 
     @FindBy(id="quick_pass")
-    TextInput passTextBox;
+    private TextInput passTextBox;
 
     @FindBy(id="quick_login_button")
-    Button loginButton;
+    private Button loginButton;
 
     public void login(String login, String password){
         loginTextBox.sendKeys(login);

@@ -9,7 +9,7 @@ import ru.yandex.qatools.htmlelements.element.*;
 public class ProfileMenu extends HtmlElement{
 
     @FindBy(css="#l_msg a.left_row")
-    Link messagesLink;
+    private Link messagesLink;
 
 
     public void selectMessagesMenuItem(){
