@@ -1,0 +1,25 @@
+{
+  "testCases" : [ {
+    "uid" : "8fbd39be4c0f0a29",
+    "name" : "checkIncomingMessage",
+    "title" : "Check incomming message",
+    "time" : {
+      "start" : 1472980502766,
+      "stop" : 1472980502979,
+      "duration" : 213
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  }, {
+    "uid" : "a5f4f9f057e17f55",
+    "name" : "checkIncomingMessage",
+    "title" : "Check incomming message",
+    "time" : {
+      "start" : 1472980538243,
+      "stop" : 1472980550072,
+      "duration" : 11829
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

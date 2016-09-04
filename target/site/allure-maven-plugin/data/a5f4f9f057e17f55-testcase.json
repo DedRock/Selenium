@@ -1,0 +1,62 @@
+{
+  "uid" : "a5f4f9f057e17f55",
+  "name" : "checkIncomingMessage",
+  "title" : "Check incomming message",
+  "time" : {
+    "start" : 1472980538243,
+    "stop" : 1472980550072,
+    "duration" : 11829
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8330280b4eb671d0",
+    "name" : "aafrikanov.vk.tests.VkTest",
+    "title" : "Vk test"
+  },
+  "steps" : [ {
+    "name" : "openVkPage",
+    "title" : "Open Vk page",
+    "time" : {
+      "start" : 1472980547877,
+      "stop" : 1472980549514,
+      "duration" : 1637
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "HomePc"
+  }, {
+    "name" : "thread",
+    "value" : "2676@HomePc.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "aafrikanov.vk.tests.VkTest"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

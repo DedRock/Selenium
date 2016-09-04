@@ -1,0 +1,49 @@
+{
+  "time" : {
+    "start" : 1472980502766,
+    "stop" : 1472980550072,
+    "duration" : 47306
+  },
+  "testSuites" : [ {
+    "uid" : "8330280b4eb671d0",
+    "name" : "aafrikanov.vk.tests.VkTest",
+    "title" : "Vk test",
+    "time" : {
+      "start" : 1472980502766,
+      "stop" : 1472980550072,
+      "duration" : 47306
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "8fbd39be4c0f0a29",
+      "name" : "checkIncomingMessage",
+      "title" : "Check incomming message",
+      "time" : {
+        "start" : 1472980502766,
+        "stop" : 1472980502979,
+        "duration" : 213
+      },
+      "severity" : "NORMAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "a5f4f9f057e17f55",
+      "name" : "checkIncomingMessage",
+      "title" : "Check incomming message",
+      "time" : {
+        "start" : 1472980538243,
+        "stop" : 1472980550072,
+        "duration" : 11829
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

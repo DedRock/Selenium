@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1472980538218" stop="1472980550078" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>aafrikanov.vk.tests.VkTest</name>
+    <test-cases>
+        <test-case start="1472980538243" stop="1472980550072" status="passed">
+            <name>checkIncomingMessage</name>
+            <title>Check incomming message</title>
+            <steps>
+                <step start="1472980547877" stop="1472980549514" status="passed">
+                    <name>openVkPage</name>
+                    <title>Open Vk page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="HomePc"/>
+                <label name="thread" value="2676@HomePc.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
